@@ -1,4 +1,4 @@
-👋 Hi there! I'm Michał Bastrzyk
+## 👋 Hi there! I'm Michał Bastrzyk
 
 💻 Passionate full-stack developer with expertise in JavaScript, Next.js, React, and Node.js. <br>
 🌱 Currently working on small projects for my clients. <br>
